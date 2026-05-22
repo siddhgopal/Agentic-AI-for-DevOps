@@ -147,18 +147,11 @@ agentic-ai-devops/
 
 ---
 
-## Resume description
-
-> **Agentic AI for DevOps** | Python, Anthropic Claude API, Docker, Kubernetes  
-> Built 3 AI agents (Docker Troubleshooter, CI/CD Analyzer, KubeHealer) using Claude's tool-use API.  
-> Agents follow an observe-reason-act loop to autonomously diagnose and fix infrastructure issues.
-
----
-
 ## Author
 
-Built by **[Your Name]** as part of the *Agentic AI for DevOps* learning journey.  
-Inspired by TrainWithShubham's "Agentic AI for DevOps" course.
+Built and implemented by **Siddhgopal Soni** as part of hands-on learning and experimentation in Agentic AI for DevOps automation.
+
+Inspired by practical DevOps AI automation use cases and community learning resources.
 
 ---
 
